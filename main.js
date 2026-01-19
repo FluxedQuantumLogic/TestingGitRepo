@@ -7,3 +7,5 @@ while(i<10){
     console.log("Feature in progress");
     i++;
 }
+
+console.log("Feature implemented.....!!!!");
