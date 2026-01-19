@@ -2,6 +2,8 @@ console.log("------ Find Unique SubString from given string\n");
 
 console.log("Hello World");
 
-while(0){
+let i=0
+while(i<10){
     console.log("Feature in progress");
+    i++;
 }
